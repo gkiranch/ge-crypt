@@ -1,0 +1,4 @@
+secrets.txt filter=git-crypt diff=git-crypt
+AD/** filter=git-crypt diff=git-crypt
+scripts/** filter=git-crypt diff=git-crypt
+.gitattributes !filter !diff
